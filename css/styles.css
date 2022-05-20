@@ -60,9 +60,7 @@ body {
 
 .logo {
   height: 4.25rem;
-  margin-left: 2rem;
-  border-radius: 25px;
-  box-shadow: var(--shadow-dark); }
+  margin-left: 2rem; }
 
 .search {
   flex: 0 0 40%;

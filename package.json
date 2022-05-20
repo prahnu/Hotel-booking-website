@@ -1,0 +1,22 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "node-sass sass/main.scss css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prahnu/Hotel-booking-website.git"
+  },
+  "author": "Prahnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prahnu/Hotel-booking-website/issues"
+  },
+  "homepage": "https://github.com/prahnu/Hotel-booking-website#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
